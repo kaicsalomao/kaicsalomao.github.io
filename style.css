@@ -12,5 +12,9 @@ h1{
 	height: 100px;
 	background-color: blue;
 	border-radius:10px;
+	transition: 1s;
 	
+}
+#cube:hover{
+	width: 400px;
 }
