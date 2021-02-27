@@ -1,0 +1,11 @@
+*{
+	font-family: monospace;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+strong{
+	
+	color: red;
+			
+}
