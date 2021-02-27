@@ -13,7 +13,6 @@ h1{
 	background-color: blue;
 	border-radius:10px;
 	transition: 1s;
-	
 }
 #cube:hover{
 	width: 400px;
